@@ -6,7 +6,9 @@
     },
     {
       "name": "Nam",
-      "id": "NoMUZhGmx"
+      "id": "NoMUZhGmx",
+      "email": "nam@gmail.com",
+      "password": "123"
     },
     {
       "name": "Nhu",
