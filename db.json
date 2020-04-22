@@ -8,7 +8,7 @@
       "name": "Nam",
       "id": "NoMUZhGmx",
       "email": "nam@gmail.com",
-      "password": "123"
+      "password": "202cb962ac59075b964b07152d234b70"
     },
     {
       "name": "Nhu",
@@ -37,6 +37,11 @@
       "name": "Hoang",
       "phone": "4325",
       "id": "Wsa-9OIxF"
+    },
+    {
+      "name": "Tuan",
+      "phone": "1234",
+      "id": "qHQ4Y8CUm"
     }
   ]
 }

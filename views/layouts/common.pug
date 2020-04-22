@@ -17,6 +17,7 @@ html
                         a.nav-link(href='/create') Create
                     li.nav-item
                         a.nav-link(href='/search') Search
-
+            if user
+                p= user.name
         .container.pt-5
             block content
