@@ -28,7 +28,9 @@
     {
       "name": "Jay",
       "phone": "2342134",
-      "id": "Mh3R2X-IJ"
+      "id": "Mh3R2X-IJ",
+      "email": "jay@gmail.com",
+      "password": "202cb962ac59075b964b07152d234b70"
     },
     {
       "name": "Jerry",
@@ -637,6 +639,37 @@
       "name": "Cake Circle, Paprus",
       "image": "https://loremflickr.com/320/240",
       "description": "hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "Rr-OWx0Gv"
+    },
+    {
+      "id": "VscIOhZE3",
+      "cart": {
+        "undefined": 1
+      }
+    },
+    {
+      "id": "VoDC18Ofj",
+      "cart": {
+        "undefined": 1,
+        "03b65d84-c155-4671-8e68-bfb5eda003d7": 8,
+        "b7c41393-bce2-47d7-80f2-c7f5011e40e8": 1
+      }
+    },
+    {
+      "id": "EXolNYy1o",
+      "cart": {
+        "a37849cb-91ce-48f2-8fdd-5b2cfc6007ed": 3,
+        "bca8e272-d797-4ccc-9c7b-ba6a07c821af": 1,
+        "a3f587fb-c374-4997-869b-a4233ac0100a": 1,
+        "03b65d84-c155-4671-8e68-bfb5eda003d7": 4,
+        "6b004c6d-0a40-4194-ad83-d8d9fdd26c15": 3,
+        "27e1706e-b16b-41cf-8114-69d9d43ab4ca": 1,
+        "b7c41393-bce2-47d7-80f2-c7f5011e40e8": 1
+      }
     }
   ]
 }
